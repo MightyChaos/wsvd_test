@@ -1,5 +1,5 @@
 # Web Stereo Video Supervision for Depth Prediction from Dynamic Scenes
-testing code for the paper [Wang etal. 3DV18](https://arxiv.org/pdf/1904.11112.pdf)
+testing code for the paper [Wang etal. 3DV19](https://arxiv.org/pdf/1904.11112.pdf)
 ## Installation
 tested with Python 3.6 with cuda 9.0 on Ubuntu16.04
 ### install dependicies:
